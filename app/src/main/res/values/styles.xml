@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/noraGreen</item>
+        <!-- Hint color and label color in FALSE state -->
+
+        <item name="android:textColorPrimary">@color/fieldText</item>
+        <item name="android:textColorHint">@color/fieldTextHint</item>
+        <!-- Label color in TRUE state and bar color FALSE and TRUE State -->
+        <item name="colorControlNormal">@color/loginFieldAccentNormal</item>
+        <item name="colorControlActivated">@color/loginFieldAccentActivated</item>
+    </style>
+
+    <style name="AppThemeNoActionBar.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppThemeNoActionBar.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

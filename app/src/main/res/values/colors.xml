@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name ="noraGreen">#68B512</color>
+    <color name="titleBarBackground">#333333</color>
+    <color name="titleBarText">#FFFFFF</color>
+    <color name="appVersionNumber">#b3b3b3</color>
+    <color name="loginHintText">#000000</color>
+    <color name="loginSubmitButtonDisabled">#c2c2c2</color>
+    <color name="loginFieldAccentNormal">#c2c2c2</color>
+    <color name="loginFieldAccentActivated">#000000</color>
+    <color name="fieldText">#000000</color>
+    <color name="fieldTextHint">#000000</color>
+    <color name ="bottomNavButtonSelected">#68B512</color>
+    <color name ="bottomNavButtonDeselected">#FFFFFF</color>
+
+</resources>

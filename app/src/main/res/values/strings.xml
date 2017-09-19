@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="cache_status_cached">showing cached data</string>
+    <string name="cache_status_fresh">showing fresh data</string>
+    <string name="random_number_amount_hint">Enter Number of Random Ints</string>
+    <string name="random_number_button_text">Get Random Number(s)</string>
+    <string name="error_unauthorized">Uh oh, we\'re unauthorized</string>
+</resources>
